@@ -1,0 +1,87 @@
+header{
+  background-color:black; 
+  color:white;      
+  padding: 20px
+
+}
+nav{
+   background-color:#FFB900; 
+   color:white;      
+   padding: 20px
+}
+ #gato{
+    background-color: #E94B30;
+    width: 100%;
+    float: left;
+  }
+section{
+    background: #E94B30;
+    height: 104px; 
+    width: 424px;
+    padding: 200px;
+    margin: 22px;
+    position: relative;
+    top: -11px;
+    float: left;
+}
+#qw{
+    position: relative;
+    color:white;
+    top: -142px;
+    background-color: #270404;
+    height: 292px;
+    width: 667px;
+    padding: 0px;
+    right: 128px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 6px #888888;
+    }
+#as{
+	background: #DC3021 ;
+    height: 104px;
+    width: 20px;
+    padding: 200px;
+    margin: 22px;
+    position: relative;
+    top: -11px;
+    float: left;
+}
+#foter{
+    background-color: #0B36E4;
+    width: 97%;
+    color: white;
+    padding: 20px;
+    position: relative;
+    top: 13px;
+    float: left;
+    }
+    .columns2 {
+   -webkit-column-count: 3;
+   column-count: 3;
+   width: 666px;
+   column-gap: 15px;
+ } 
+ #qz{
+        position: relative;
+    top: -189px;
+    height: 454px;
+    width: 321px;
+    padding: 0px;
+    right: 169px;
+    }
+#logo_img {
+width: 100px;
+    height: 100px;
+    color:white;
+    background: #270404;
+    position: relative;
+   top: -149px;
+    right: -49px;
+    transition: width 4s;
+    -webkit-transition: margin-left 4s easein-out;
+     border-radius: 30px;
+    box-shadow: 5px 5px 6px #888888;
+}
+#logo_img:hover {
+ width: 300px;
+}
